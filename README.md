@@ -1,7 +1,11 @@
-assist.ai
+Assist.ai
 ==============================
 
-A short description of the project.
+This project is an AI Assistant/ my attempt at replicationg something similar to Siri/Alexa/Google Assistant/Cortona
+THe idea is to have an AI assistant I can delegate responsibility to (via speech), get tasks done and then communicate
+the result back via TTS.
+For a start, what I want this to do is to serve as a dummy research assistant, tell it about a research I'm working on,
+get it to search for related papers and return the most closely align paper to the idea.
 
 Project Organization
 ------------
